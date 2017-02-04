@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-version="Refracta Snapshot 10.0.1 (20170204)"
+version="Refracta Snapshot 10.0.2 (20170204)"
 
 TEXTDOMAIN=refractasnapshot-gui
 TEXTDOMAINDIR=/usr/share/locale/
