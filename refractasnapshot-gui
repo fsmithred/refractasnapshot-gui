@@ -424,7 +424,7 @@ if [[ $task =~ 01 ]] ; then
 	
 	squash_filesystem
 	make_iso_fs
-	#cleanup
+	cleanup
 	final_message
 	
 	exit 0
